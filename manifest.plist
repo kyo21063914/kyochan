@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kyochan.dcloud</string>
+				<string>asiainfo.aicd2020.sboss</string>
 				<key>bundle-version</key>
-				<string>6.3.10</string>
+				<string>6.3.25</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string></string>
+				<string>asiainfo.aicd2020.sboss</string>
 				<key>title</key>
-				<string>111</string>
+				<string>中华</string>
 			</dict>
 		</dict>
 	</array>
