@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>asiainfo.aicd2020.sboss</string>
+				<string>com.e4bf058461-1-42</string>
 				<key>bundle-version</key>
-				<string>6.3.25</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>asiainfo.aicd2020.sboss</string>
+				<string>com.e4bf058461-1-42</string>
 				<key>title</key>
 				<string>中华神器</string>
 			</dict>
